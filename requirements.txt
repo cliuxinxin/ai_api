@@ -1,0 +1,7 @@
+openai
+requests
+python-dotenv
+tencentcloud-sdk-python
+zhipuai
+spark_ai_python
+websocket-client
